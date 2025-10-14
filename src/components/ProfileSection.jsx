@@ -9,7 +9,7 @@ const ProfileSection = () => {
           alt="Abdirahman Andikadir"
         />
       </div>
-      <h1 className="profile-name">Abdirahman Andikadir</h1>
+      <h1 className="profile-name">Abdirahman Abdikadir</h1>
       <p className="profile-bio">• UI/UX Designer • Full-Stack Developer</p>
       <div className="flex items-center justify-center gap-1.5
                      text-zinc-400 text-sm tracking-wide
